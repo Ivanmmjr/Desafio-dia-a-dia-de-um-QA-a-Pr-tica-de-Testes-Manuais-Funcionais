@@ -1,5 +1,5 @@
 DESAFIO - O dia a dia de um QA: A prática de testes manuais funcionais
-Documentos do desafio de projeto do bootcamp DIO GFT Quality Assurance Para Mulheres.
+Documentos do desafio de projeto do bootcamp DIO.
 
 Mentora: Carolina Louzada
 
