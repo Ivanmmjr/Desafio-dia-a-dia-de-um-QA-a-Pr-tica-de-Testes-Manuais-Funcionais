@@ -1,0 +1,1 @@
+# Desafio-dia-a-dia-de-um-QA-a-Pr-tica-de-Testes-Manuais-Funcionais
